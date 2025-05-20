@@ -114,5 +114,4 @@ To deliver an interactive IPL report that:
 
 • Broadcast & Media: Generates visuals for quick match highlights and previews.
 # Dashboard Screenshot
-
-
+![alt-text](https://github.com/Ravikumar0311/ipl-analysis/blob/main/analysis%20dashboard%20snapshot.png)
